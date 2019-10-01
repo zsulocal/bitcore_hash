@@ -1,5 +1,5 @@
-# x13bcd_hash
-BitcoinDiamond Powhash in golang
+# bitcore_hash
+bitcore hash (timetravel10) in golang
 
 ## INSTALL
 
